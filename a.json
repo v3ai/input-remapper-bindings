@@ -331,29 +331,80 @@
             },
             {
                 "type": 1,
-                "code": 46,
+                "code": 33,
                 "origin_hash": "748e31550c24fc009038438dc4fce338"
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "KEY_LEFTCTRL+c",
+        "output_symbol": "KEY_LEFTCTRL+f",
         "mapping_type": "key_macro"
     },
     {
         "input_combination": [
             {
                 "type": 1,
-                "code": 56,
+                "code": 100,
                 "origin_hash": "748e31550c24fc009038438dc4fce338"
             },
             {
                 "type": 1,
-                "code": 47,
+                "code": 36,
                 "origin_hash": "748e31550c24fc009038438dc4fce338"
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "KEY_LEFTCTRL+v",
+        "output_symbol": "KEY_DOWN",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 100,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            },
+            {
+                "type": 1,
+                "code": 37,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_UP",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 100,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            },
+            {
+                "type": 1,
+                "code": 35,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFT",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 100,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            },
+            {
+                "type": 1,
+                "code": 38,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_RIGHT",
         "mapping_type": "key_macro"
     }
 ]
