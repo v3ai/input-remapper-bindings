@@ -406,5 +406,39 @@
         "target_uinput": "keyboard",
         "output_symbol": "KEY_RIGHT",
         "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 100,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            },
+            {
+                "type": 1,
+                "code": 49,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_HOME",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 100,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            },
+            {
+                "type": 1,
+                "code": 50,
+                "origin_hash": "748e31550c24fc009038438dc4fce338"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_END",
+        "mapping_type": "key_macro"
     }
 ]
