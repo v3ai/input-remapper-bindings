@@ -1,6 +1,6 @@
 # This document will attempt to explain my keybindings
 
-(these wont make sense unless you're on a computer with an alt right next to each of your fingers)
+(these wont make sense unless you're on a computer with an alt right next to each of your thumbs)
 
 (-I and -K are designations, read about it at the bottom of the page)
 
